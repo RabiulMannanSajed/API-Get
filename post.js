@@ -18,10 +18,10 @@ function displayPost(posts) {
 
 // PP for  post 
 function addAPost() {
-    fetch('https://jsonplaceholder.typicode.com/posts', {
-        method: 'POST',
-        body: JSON.stringify({
-            title: 'My new post',
+    fetch('https://jsonplaceholder.typicode.com/posts', { // this URL use to where are u post means adding 
+        method: 'POST',  // type of ur data
+        body: JSON.stringify({  // The JSON.stringify() method converts JavaScript objects into strings. 
+            title: 'My new post', /// title, body and userId which type of data u passing 
             body: 'this is my post',
             userID: 1
         }),
