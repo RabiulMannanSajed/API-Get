@@ -15,7 +15,7 @@
      * <a href="https://jsonplaceholder.typicode.com/users">users	10 users</a><br>
   
    </p>
- * Make a Post which is just a demo 
+ * In Post.js which is just a demo test
  <p>
 by fetch give a URL where u want to post your data 
 then write the type of your data 
