@@ -1,12 +1,19 @@
 # API-Get
 * Here data take from JSONPlaceholder
    <p>
+
    * Resources (here some feck data)<br>
+
      * <a href="https://jsonplaceholder.typicode.com/posts">posts 100 posts</a><br>
+
      * <a href="https://jsonplaceholder.typicode.com/comme">Comment  500 comment</a><br>
+
      * <a href="https://jsonplaceholder.typicode.com/albums">album 100 album</a><br>
+    
      * <a href="https://jsonplaceholder.typicode.com/photos">photos	5000 photos</a><br>
+   
      * <a href="https://jsonplaceholder.typicode.com/users">users	10 users</a><br>
+  
    </p>
  * Make a Post which is just a demo 
  <p>
